@@ -1,4 +1,4 @@
-# IN USE DOWNLOAD THIS TOOLS AND ---.sh AND chmod +x ---,sh AND ./RECON.sh [FILE]
+# BASH SCRIPT IN USE DOWNLOAD THIS TOOLS AND ---.sh AND chmod +x ---,sh AND ./RECON.sh [FILE]
 # ════════════════════════════════════════════════════════════════
 #!/bin/bash
 
