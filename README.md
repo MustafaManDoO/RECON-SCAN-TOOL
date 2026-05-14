@@ -1,5 +1,5 @@
 # RECON-SCAN-TOOL
-# THIS TOOL RECON SCAN > IPS AND SUBDOMINS
+# THIS TOOL RECON SCAN > IPS AND SUBDOMINS <<
 #!/bin/bash
 
 # ════════════════════════════════════════════════════════════════
